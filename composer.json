@@ -1,0 +1,17 @@
+{
+    "name": "jessy/php-mvc-frame-work",
+    "authors": [
+        {
+            "name": "JayCeD1",
+            "email": "jesseeren@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
